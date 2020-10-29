@@ -22,5 +22,5 @@ yarn test //Para rodar os testes.
 
 ## Cobertura dos testes e ScreenShot
 
-<img align="center" src="https://user-images.githubusercontent.com/47749249/97635954-05465f00-1a17-11eb-9015-f8eda41f0774.png" width="auto"/>
+<img align="center" src="https://user-images.githubusercontent.com/47749249/97636533-05932a00-1a18-11eb-9fc7-324c8f2719a3.png" width="auto"/>
 
